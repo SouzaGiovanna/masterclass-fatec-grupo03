@@ -1,9 +1,13 @@
-[
-  {
-    "id" : 1,
-    "nome" : "Giovanna",
-    "cpf" : "000.000.000-00",
-    "email" : "gi.teste@gmail.com",
-    "senha" : "123455"
-  }
-]
+[ {
+  "id" : 1,
+  "nome" : "Giovanna",
+  "cpf" : "000.000.000-00",
+  "email" : "gi.teste@gmail.com",
+  "senha" : "123455"
+}, {
+  "id" : 1,
+  "nome" : "Teste",
+  "cpf" : "000.000.000-00",
+  "email" : "teste@gmail.com",
+  "senha" : "123455"
+} ]

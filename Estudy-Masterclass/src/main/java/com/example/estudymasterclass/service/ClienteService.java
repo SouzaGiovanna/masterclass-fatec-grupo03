@@ -16,4 +16,9 @@ public class ClienteService implements ICliente{
     public List<Cliente> getAll() {
         return repo.getAll();
     }
+
+    @Override
+    public Cliente saveCliente(Cliente cliente) {
+        return repo.saveCliente(cliente).get();
+    }
 }
